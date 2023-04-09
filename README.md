@@ -2,8 +2,6 @@
 
 A quick overview of the second assignment of CS50 Web Programming: a simple clone of Wikipedia, using Python's web framework Django, HTML and CSS.
 
-## Youtube Video
-A short video where I go through the required specifications of the project: https://youtu.be/heyC0rYBST8
 
 ## Assignment specification
 - **Entry Page**: Visiting /wiki/TITLE, where TITLE is the title of an encyclopedia entry, should render a page that displays the contents of that encyclopedia entry.
